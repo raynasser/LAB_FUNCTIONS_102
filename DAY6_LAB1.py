@@ -20,6 +20,12 @@
 
 
 def find_primes(x:int, y:int):
+    '''
+    Prints the prime numbers between the two given integers x and y (inclusive).
+
+    :param x: The starting integer
+    :param y: The ending integer
+    '''
 
     print(f"primes between `{x}` and `{y}` are:\n")
 
